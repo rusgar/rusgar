@@ -42,6 +42,13 @@
 </a> <a href="https://git-scm.com/doc" target="_blank"> <img src="./img/git-icon.svg"  width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusgar)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduardo)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 ### COLABORACION!:
@@ -53,6 +60,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-eduruscar@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoWidth=30&logoColor=white&link=mailto:eduruscar@gmail.com)](mailto:'eduruscar@gmail.com')
 
 <img src="https://www.animatedimages.org/data/media/466/animated-thank-you-image-0078.gif" width="140px" alt="animated-thank-you-image-0078" />
+
+
+
+
 
 ### MI FRASE!:
 
