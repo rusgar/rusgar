@@ -42,12 +42,11 @@
 </a> <a href="https://git-scm.com/doc" target="_blank"> <img src="./img/git-icon.svg"  width="60" height="60"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusgar)
 
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eduardo)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<h2>📈 GitHub Stats</h2>
+<a href="https://github.com/rusgar"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusgar&amp;title_color=24292e&amp;text_color=24292e&amp;icon_color=24292e&amp;bg_color=ffffff"/></a>
+<a href="https://github.com/rusgar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rusgar&show_icons=true&theme=radical"/></a>
+<br/>
 
 
 
