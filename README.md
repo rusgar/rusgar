@@ -18,6 +18,6 @@ FullStack developer
 ## About me
 
 ```
-Frases de Ovidio - La gota horada la roca, no por su fuerza sino por su constancia.
+Frases de Ovidio - “La gota de agua perfora la roca, no por su fuerza sino por su constancia.”.
 ```
 
