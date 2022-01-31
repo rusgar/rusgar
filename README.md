@@ -10,7 +10,11 @@ FullStack developer
 
 ## Studies
 - Bootcamp FullStack Frontend & Backend @ [Factoria F5](https://www.rompemosloscodigos.org/)
+- ![alt text](https://github.com/rusgar/rusgar/blob/main/img/DiplomaFactoria.png)
+
+
 - Bootcamp Big Data & Machine Learning @ [CORE_Code_School](https://www.corecode.school/en-us/bootcamp/big-data-machine-learning)
+- ![alt text](https://github.com/rusgar/rusgar/blob/main/img/diplomaCore.png)
  
 <a href="https://github.com/rusgar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rusgar&show_icons=true&theme=radical"/></a>
 <br/>
