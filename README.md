@@ -13,7 +13,7 @@ FullStack developer
 - ![alt text](https://github.com/rusgar/rusgar/blob/main/img/DiplomaFactoria.png)
 
 
-- Bootcamp Big Data & Machine Learning @ [CORE_Code_School](https://www.corecode.school/en-us/bootcamp/big-data-machine-learning)
+- Bootcamp Big Data & Machine Learning @ [CORE_Code_School](https://www.corecode.school)
 - ![alt text](https://github.com/rusgar/rusgar/blob/main/img/diplomaCore.png)
  
 <a href="https://github.com/rusgar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rusgar&show_icons=true&theme=radical"/></a>
