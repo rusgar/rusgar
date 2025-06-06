@@ -2,7 +2,7 @@
 # 👋🏻 Me llamo `Edu Rus`
 FullStack developer
 * eduruscar@gmail.com
-* [![Linkedin Badge](https://img.shields.io/badge/-Edu_Rus-blue?style=for-the-badge&logo=Linkedin&logoWidth=30&logoColor=white&link=https://https://www.linkedin.com/in/eduardo-rus-carretero-b839041bb/)](https://www.linkedin.com/in/eduardo-rus-carretero-b839041bb/)
+* [![Linkedin Badge](https://img.shields.io/badge/-Edu_Rus-blue?style=for-the-badge&logo=Linkedin&logoWidth=30&logoColor=white&link=https://https://www.linkedin.com/in/eduardo-rus-carretero-b839041bb/)](https://www.linkedin.com/in/edurus/)
 
 ## Languages i'm fluent in:
 - __Javascript__, MERN Stack (Ruby on Rails, Vue, MongoDB, Express, Node, etc.)
