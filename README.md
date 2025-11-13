@@ -1,7 +1,7 @@
 
 # 👋🏻 Me llamo `Edu Rus`
  Docente & FullStack developer
- * [Porfolio](https://eduruscar.netlify.app/)
+ * [Porfolio](https://edurus.netlify.app/)
 * eduruscar@gmail.com
 * [![Linkedin Badge](https://img.shields.io/badge/-Edu_Rus-blue?style=for-the-badge&logo=Linkedin&logoWidth=30&logoColor=white&link=https://https://www.linkedin.com/in/eduardo-rus-carretero-b839041bb/)](https://www.linkedin.com/in/edurus/)
 
